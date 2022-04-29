@@ -1,9 +1,9 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=LiuN1an)
 
-### A front-end developer
-### A fresh man in web3
-### A vegetable dog
+- A front-end developer
+- A fresh man in web3
+- A vegetable dog
 
 <!--
 **LiuN1an/LiuN1an** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
