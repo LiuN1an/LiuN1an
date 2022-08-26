@@ -1,7 +1,7 @@
 ## PeterH here! ✋
-- ⚡ A front-end developer ![](https://img.shields.io/badge/react-brightgreen) ![](https://img.shields.io/badge/ts-blue) ![](https://img.shields.io/badge/taro-informational)
-- 🌱 A fresh man in web3 ![](https://img.shields.io/badge/rust-pink)
-- 🤔 A vegetable dog
+- ⚡ A front-end developer ![](https://img.shields.io/badge/react-brightgreen) ![](https://img.shields.io/badge/ts-blue) ![](https://img.shields.io/badge/taro-informational) ![](https://img.shields.io/badge/rust-red) 
+- 🌱 Ready for web3 ![](https://img.shields.io/badge/rust-pink)
+- 🤔 Believe Buddhism
 
 
 
