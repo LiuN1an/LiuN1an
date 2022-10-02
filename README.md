@@ -1,5 +1,5 @@
 ## PeterH here! ✋
-(Browse me here)[https://atuki.liun1an.xyz/]
+[Browse me here](https://atuki.liun1an.xyz/)
 - ⚡ A front-end developer ![](https://img.shields.io/badge/react-brightgreen) ![](https://img.shields.io/badge/ts-blue) ![](https://img.shields.io/badge/taro-informational) 
 - 🌱 Learning in web3 ![](https://img.shields.io/badge/rust-red)
 - 🤔 Believe Buddhism
