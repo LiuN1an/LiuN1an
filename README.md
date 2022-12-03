@@ -5,6 +5,9 @@
 
 
 
+- 脚手架工具，安装后可以快速配置好一个项目 [hc-cli](https://github.com/LiuN1an/hc-cli)
+- oauth封装，支持基于state获取状态 [oauth](https://github.com/LiuN1an/oauth)
+- 以往项目中实践的较好的封装或架构工具 [tools](https://github.com/LiuN1an/Util-Tools)
 
 
 <!--
