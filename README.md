@@ -1,7 +1,7 @@
 ## LiuN1an here! ✋
 [一个实验小基地](https://atuki.liun1an.xyz/)
 
-独善其身。
+梭哈，是一种智慧。
 
 
 
