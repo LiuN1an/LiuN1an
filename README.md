@@ -1,7 +1,7 @@
 ## LiuN1an here! ✋
 <!-- [一个实验小基地](https://atuki.liun1an.xyz/) -->
 
-[Know me here](https://LiuN1an.github.io)
+[Meet me here](https://LiuN1an.github.io)
 
 
 <!--
